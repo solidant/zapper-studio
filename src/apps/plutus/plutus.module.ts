@@ -16,9 +16,7 @@ import { ArbitrumPlutusLockContractPositionFetcher } from './arbitrum/plutus.loc
 import { ArbitrumPlutusPlsDpxTokenFetcher } from './arbitrum/plutus.pls-dpx.token-fetcher';
 import { ArbitrumPlutusPlsRdntTokenFetcher } from './arbitrum/plutus.pls-rdnt.token-fetcher';
 import { ArbitrumPlutusPlsSpaTokenFetcher } from './arbitrum/plutus.pls-spa.token-fetcher';
-import { ArbitrumPlutusPlvGlpTokenFetcher } from './arbitrum/plutus.plv-glp.token-fetcher';
 import { ArbitrumPlutusTgeClaimableContractPositionFetcher } from './arbitrum/plutus.tge-claimable.contract-position-fetcher';
-import { ArbitrumPlutusVaultTokenFetcher } from './arbitrum/plutus.vault.token-fetcher';
 import { PlutusViemContractFactory } from './contracts';
 
 @Module({
@@ -34,8 +32,6 @@ import { PlutusViemContractFactory } from './contracts';
     ArbitrumPlutusFarmPlsJonesContractPositionFetcher,
     ArbitrumPlutusFarmPlsLpContractPositionFetcher,
     ArbitrumPlutusLockContractPositionFetcher,
-    ArbitrumPlutusVaultTokenFetcher,
-    ArbitrumPlutusPlvGlpTokenFetcher,
     ArbitrumPlutusTgeClaimableContractPositionFetcher,
     ArbitrumPlutusFarmPlsRdntContractPositionFetcher,
     // plsASSETs

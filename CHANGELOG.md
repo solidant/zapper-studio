@@ -4,6 +4,36 @@
 
 [1]: https://www.npmjs.com/package/@zapper-fi/studio?activeTab=versions
 
+## [0.575.2](https://github.com/Zapper-fi/studio/compare/v0.575.1...v0.575.2) (2024-01-09)
+
+
+### Bug Fixes
+
+* **app-tokens:** Migration to ATI ([#3176](https://github.com/Zapper-fi/studio/issues/3176)) ([14744e6](https://github.com/Zapper-fi/studio/commit/14744e642a1213e03092fc75a44791c59dd080de))
+* **apps:** App token migration to ATI ([#3179](https://github.com/Zapper-fi/studio/issues/3179)) ([efe6f5a](https://github.com/Zapper-fi/studio/commit/efe6f5aa4df251ac7d8f4af2b9d6203739a8a025))
+* **banano:** Fix farms on Ethereum ([#3178](https://github.com/Zapper-fi/studio/issues/3178)) ([9c08233](https://github.com/Zapper-fi/studio/commit/9c08233501d15f8d4f06f9ee87b712844c1b5a87))
+
+## [0.575.1](https://github.com/Zapper-fi/studio/compare/v0.575.0...v0.575.1) (2024-01-04)
+
+
+### Bug Fixes
+
+* **apps:** Migrated app tokens to ATI ([#3173](https://github.com/Zapper-fi/studio/issues/3173)) ([2716a64](https://github.com/Zapper-fi/studio/commit/2716a644502182392dd8fdd1aac876522bdea530))
+
+## [0.575.0](https://github.com/Zapper-fi/studio/compare/v0.574.4...v0.575.0) (2024-01-02)
+
+
+### Features
+
+* **silo-finance:** Added STIP claimables on Arbitrum ([#3170](https://github.com/Zapper-fi/studio/issues/3170)) ([18b4058](https://github.com/Zapper-fi/studio/commit/18b4058e50b187030e508870aab51ebee69723b6))
+
+## [0.574.4](https://github.com/Zapper-fi/studio/compare/v0.574.3...v0.574.4) (2023-12-29)
+
+
+### Bug Fixes
+
+* **shapeshift:** update fox farms ([#3167](https://github.com/Zapper-fi/studio/issues/3167)) ([3fa3a25](https://github.com/Zapper-fi/studio/commit/3fa3a25d2454a71c76ef4ff72e135f888d3a37b1))
+
 ## [0.574.3](https://github.com/Zapper-fi/studio/compare/v0.574.2...v0.574.3) (2023-12-21)
 
 
